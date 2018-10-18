@@ -7,8 +7,17 @@
     "test": "jest"
   },
   "dependencies": {
+    "lottie-react-native": "^2.5.9",
     "react": "16.6.0-alpha.8af6728",
-    "react-native": "0.57.3"
+    "react-native": "0.57.3",
+    "react-native-elements": "^0.19.1",
+    "react-native-meteor": "^1.4.0",
+    "react-native-modal": "^6.5.0",
+    "react-native-popup-menu": "^0.14.0",
+    "react-native-swiper": "^1.5.13",
+    "react-navigation": "^2.18.0",
+    "react-navigation-fluid-transitions": "^0.2.72",
+    "react-navigation-material-bottom-tabs": "^0.4.0"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
